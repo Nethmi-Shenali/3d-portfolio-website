@@ -254,7 +254,9 @@ const Hero = () => {
               </ResumeButton>
             </HeroLeftContainer>
             <HeroRightContainer>
-                <Img src={HeroImg} alt="Shenali Gamage" />
+                <img src={HeroImg} alt="Shenali Gamage" />
+                
+                {/* <img src="https://drive.google.com/file/d/1XiGbtiubzcU7-THBKX7yABu4hA3TS7md/view?usp=sharing" alt=""></img> */}
             </HeroRightContainer>
           </HeroInnerContainer>
         </motion.div>
