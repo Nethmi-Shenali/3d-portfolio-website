@@ -254,12 +254,7 @@ const Hero = () => {
               </ResumeButton>
             </HeroLeftContainer>
             <HeroRightContainer>
-              <motion.div {...headContentAnimation}>
-               
                 <Img src={HeroImg} alt="Shenali Gamage" />
-                {/* <Img src="https://drive.google.com/file/d/1XiGbtiubzcU7-THBKX7yABu4hA3TS7md/view?usp=sharing" alt="Shenali Gamage" /> */}
-
-              </motion.div>
             </HeroRightContainer>
           </HeroInnerContainer>
         </motion.div>
