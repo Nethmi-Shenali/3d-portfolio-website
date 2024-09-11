@@ -391,7 +391,7 @@ export const projects = [
     title: "Tech Triathlon",
     date: "Organized by Rootcode",
     description:
-      "Participated in the Devthon competition, a web development contest, and successfully advanced to the second round. This achievement underscores our web development skills and innovative approach.",
+      "Won the first two rounds of Hackathon and designathon and qualified for the thirsd round of a huge competition which has the participation of over 140 teams islandwide",
     image:
       "https://tech-triathlon-prod.s3.amazonaws.com/home_page_1a40f16433.png",
     

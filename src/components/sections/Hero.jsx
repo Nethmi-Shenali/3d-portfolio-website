@@ -254,9 +254,15 @@ const Hero = () => {
               </ResumeButton>
             </HeroLeftContainer>
             <HeroRightContainer>
-                <img src={HeroImg} alt="Shenali Gamage" />
+                {/* <img src={HeroImg} alt="Shenali Gamage" /> */}
                 
-                {/* <img src="https://drive.google.com/file/d/1XiGbtiubzcU7-THBKX7yABu4hA3TS7md/view?usp=sharing" alt=""></img> */}
+                <img src="https://images.playground.com/2b0ea972886040d98d41ede588ac54fc.jpeg" alt="" width={400} height={400}
+                style={{
+                  borderRadius: '50%',
+                  width: '400px',
+                  height: '400px',
+                  border: '2px solid #yourThemeColor' // Replace with your desired border color
+                }} ></img>
             </HeroRightContainer>
           </HeroInnerContainer>
         </motion.div>

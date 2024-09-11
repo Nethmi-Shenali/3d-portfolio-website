@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link as LinkR } from "react-router-dom";
 import styled, { useTheme } from "styled-components";
 import { Bio } from "../data/constants";
-import { MenuRounded } from "@mui/icons-material";
+import { MenuRounded, Padding } from "@mui/icons-material";
 
 const Nav = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -26,13 +26,25 @@ const NavbarContainer = styled.div`
   justify-content: space-between;
   font-size: 1rem;
 `;
+
 const NavLogo = styled(LinkR)`
   width: 80%;
   padding: 0 6px;
-  font-weight: 500;
   font-size: 18px;
   text-decoration: none;
-  color: inherit;
+  display: flex;
+  align-items: center;
+`;
+
+const BoldPurpleText = styled.span`
+  font-weight: bold;
+  color: ${({ theme }) => theme.primary}; // Purple
+`;
+
+const WhiteText = styled.span`
+  font-weight: normal;
+  color: white;
+  padding: 10px;
 `;
 
 const NavItems = styled.ul`
@@ -132,7 +144,12 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">Code with Passion</NavLogo>
+        {/* Updated NavLogo */}
+        <NavLogo to="/">
+          <BoldPurpleText>Code </BoldPurpleText>{" "}
+          <WhiteText>Learn</WhiteText>
+          <BoldPurpleText>Innovate </BoldPurpleText>{" "}
+        </NavLogo>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
           <MenuRounded style={{ color: "inherit" }} />
@@ -158,7 +175,7 @@ const Navbar = () => {
               Projects
             </NavLink>
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Projects">
-              Achivements
+              Achievements
             </NavLink>
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Education">
               Education
