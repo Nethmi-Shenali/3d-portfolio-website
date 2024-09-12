@@ -10,7 +10,7 @@ export const Bio = {
     "Passionate and skilled undergraduate seeking a software engineering internship to apply and explore emerging technologies. A responsible team player with strong leadership qualities, adaptability, and a focus on achieving productive goals.",
   github: "https://github.com/Nethmi-Shenali",
   resume:
-    "https://drive.google.com/file/d/1JoaHmceQxt0eVCRByyoqjGET65slUQGP/view?usp=sharing",
+    "https://drive.google.com/file/d/1zvOlz_9fLXTZK1WDlZ-WmoQsKFXhBaDy/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shenali-gamage/",
   twitter: "",
   insta: "https://www.instagram.com/shenu_u_u/?hl=en",
