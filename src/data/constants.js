@@ -337,18 +337,7 @@ export const projects = [
     
     category: "Won",
   }, 
-  {
-    id: 0,
-    title: "Cypher 2023",
-    date: "5th Place",
-    description:
-      "Participated in Cypher, a competition with a cyber security-focused first round and a hackathon-based second round. This event tested and showcased our skills in both cyber security and innovative problem-solving.",
-    image:
-      "https://media.licdn.com/dms/image/v2/D5622AQE0H_sYlM3CFw/feedshare-shrink_1280/feedshare-shrink_1280/0/1696437177211?e=1734566400&v=beta&t=QxGCPU1mebKbpUEexiuJv9A0P2LeIelfPLekr5qUaGI",
-    
-    category: "Won",
-   
-  },
+  
   {
     id: 1,
     title: "Techno Hackathon",
@@ -408,6 +397,42 @@ export const projects = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRloDKLU7rrsYnB1-DrgMufeUNTU6D-gpUQyg&s",
    
     category: "participated",
+   
+  },
+  {
+    id: 5,
+    title: "CodeRally 4.0",
+    date: "2nd runners up",
+    description:
+      "Participated in the Coderally 24 hour hackathon, a competitive programming event and we have managed to secure 2nd runners up in this competition over 40+ teams which was Organized By University of IIT",
+    image:
+      "https://media.licdn.com/dms/image/v2/D5622AQFCKlUCZfGiVg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727680390785?e=1734566400&v=beta&t=h-exmnVMHd3Xm9WKd08H4qN0xE2mI_KkqtyiF3Z5UMQ",
+   
+    category: "Won",
+   
+  },
+  {
+    id: 0,
+    title: "Cypher 2023",
+    date: "5th Place",
+    description:
+      "Participated in Cypher, a competition with a cyber security-focused first round and a hackathon-based second round. This event tested and showcased our skills in both cyber security and innovative problem-solving.",
+    image:
+      "https://media.licdn.com/dms/image/v2/D5622AQE0H_sYlM3CFw/feedshare-shrink_1280/feedshare-shrink_1280/0/1696437177211?e=1734566400&v=beta&t=QxGCPU1mebKbpUEexiuJv9A0P2LeIelfPLekr5qUaGI",
+    
+    category: "Won",
+   
+  },
+  {
+    id: 0,
+    title: "HaXtreme 3.0",
+    date: "4th Place",
+    description:
+      "Participated in Haxtreme 3.0  a competitive programming contest organized by university of Ruhuna . We have secured the 4th place over 150+ teams with 400+ participants",
+    image:
+      "https://media.licdn.com/dms/image/v2/D5622AQFaSiHe5xcKjg/feedshare-shrink_800/feedshare-shrink_800/0/1728222640900?e=1734566400&v=beta&t=OfWb7sJUBQfRvJe3G7R7r5W8tTpUOFCOzQCcHyOMV24",
+    
+    category: "Won",
    
   },
  
