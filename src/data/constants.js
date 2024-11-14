@@ -333,7 +333,7 @@ export const projects = [
     description:
       "Participated in CodeRush 2024, an inter-faculty hackathon competition, and secured first place. This HackerRank challenge highlighted our competitive programming prowess and teamwork.",
     image:
-      "https://media.licdn.com/dms/image/v2/D5622AQEy3UwNcAYF5g/feedshare-shrink_1280/feedshare-shrink_1280/0/1716482512429?e=1728518400&v=beta&t=yGxLvl4h8sPr2M9WsERSNqJ0sjrbPu4LYpRWNXn_reA",
+      "https://media.licdn.com/dms/image/v2/D5622AQEy3UwNcAYF5g/feedshare-shrink_1280/feedshare-shrink_1280/0/1716482512429?e=1734566400&v=beta&t=_S7MpsCewQTCmPGBy4-9-HH4fs55UPU8AG9Xp0QESw8",
     
     category: "Won",
   }, 
@@ -344,7 +344,7 @@ export const projects = [
     description:
       "Participated in Cypher, a competition with a cyber security-focused first round and a hackathon-based second round. This event tested and showcased our skills in both cyber security and innovative problem-solving.",
     image:
-      "https://media.licdn.com/dms/image/v2/D5622AQE0H_sYlM3CFw/feedshare-shrink_1280/feedshare-shrink_1280/0/1696437177211?e=1728518400&v=beta&t=bO8D9LObslhhgHKhhDWZNuhOqdJrCffEPgcgishBPJI",
+      "https://media.licdn.com/dms/image/v2/D5622AQE0H_sYlM3CFw/feedshare-shrink_1280/feedshare-shrink_1280/0/1696437177211?e=1734566400&v=beta&t=QxGCPU1mebKbpUEexiuJv9A0P2LeIelfPLekr5qUaGI",
     
     category: "Won",
    
@@ -356,7 +356,7 @@ export const projects = [
     description:
       "Participated in the Techno Hackathon finals, making it to the top 10 teams in competitive programming. This achievement highlights our strong coding skills and teamwork.",
     image:
-      "https://media.licdn.com/dms/image/v2/D5622AQEjT-e7Lhe8-w/feedshare-shrink_1280/feedshare-shrink_1280/0/1705074230669?e=1728518400&v=beta&t=9KusII8EfPzk8CJEp9HQ4wKBGz9Opq2ORcNl53P0u9Q",
+      "https://media.licdn.com/dms/image/v2/D5622AQEjT-e7Lhe8-w/feedshare-shrink_1280/feedshare-shrink_1280/0/1705074230669?e=1734566400&v=beta&t=vMVuZiiDYYzV6rIvvGfRFooYWynxdoOTSr8fAVhN01Y",
     
     category: "participated",
     
@@ -368,7 +368,7 @@ export const projects = [
     description:
       "Participated in a 12-hour hackathon organized by the University of Peradeniya, securing 14th place out of over 150 teams. This achievement highlights our endurance, coding skills, and teamwork in a highly competitive environment.",
     image:
-      "https://media.licdn.com/dms/image/v2/D5622AQFwbrK7AbZI0A/feedshare-shrink_1280/feedshare-shrink_1280/0/1699191867418?e=1728518400&v=beta&t=gmSgedVa398tUdMa14H9Oa_FRnN8Cq_CrJcv3Rhj7Ss",
+      "https://media.licdn.com/dms/image/v2/D5622AQFwbrK7AbZI0A/feedshare-shrink_1280/feedshare-shrink_1280/0/1699191867418?e=1734566400&v=beta&t=DFezN4XnLO7Wf30pegdDARdSr_3o-5CYgJTIfrGMY5s",
    
     category: "participated",
     
