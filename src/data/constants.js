@@ -321,7 +321,7 @@ export const projects = [
     description:
       "We participated in the Duothon, an all-island designathon competition organized by NIBM, and secured first place. Our team showcased exceptional creativity and problem-solving skills, developing innovative solutions that impressed the judges. ",
     image:
-      "https://media.licdn.com/dms/image/v2/D5622AQE_gOm_n0OYeA/feedshare-shrink_1280/feedshare-shrink_1280/0/1716482829321?e=1728518400&v=beta&t=tnnzt28uLor8GGDQNYx6Cix5WR7YdRoQ6SzBE6rCoso",
+      "https://media.licdn.com/dms/image/v2/D5622AQEItTCQQfje2g/feedshare-shrink_1280/feedshare-shrink_1280/0/1716482829921?e=1734566400&v=beta&t=k31A5eTSiUlB_av1VkPu3vpBonU2uHFJ7Q-K1NpTNCw",
     
     category: "Won",
     
